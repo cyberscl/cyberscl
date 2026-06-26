@@ -2,7 +2,7 @@
 - 👀 I’m interested in UIUX
 - 🌱 I’m currently learning CODING
 - 💞️ I’m looking to collaborate on ...
-- 📫 506139632@qq.com
+- 📫 anhydrousrag@gmail.com 
 
 <!---
 cyberscl/cyberscl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
